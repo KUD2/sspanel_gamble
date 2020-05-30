@@ -10,3 +10,4 @@ Line 66 and 68: MYSQL Root Password (For Connection)
 ```
 $conn=mysqli_connect("localhost","root","root_password","database_name");
 ```
+https://[link]/api.php?key=[APIKEY]&id=[UserTelegramID]&change=[DataChange(MB)]method=[increase/decrease]
